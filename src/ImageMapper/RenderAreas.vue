@@ -1,10 +1,12 @@
 <template>
   <area
     v-if="!area.disabled"
+    :id="area.id"
     :coords="extendedArea(area).scaledCoords.join(',')"
     :shape="area.shape"
     :href="area.href"
     alt="map"
+    target="_blank"
     @mouseenter="hoverOn(extendedArea(area), index, $event)"
     @mouseleave="hoverOff(extendedArea(area), index, $event)"
     @mousemove="mouseMove(extendedArea(area), index, $event, this)"

@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/img-mapper/vue-img-mapper.git"
+    "url": "git+https://github.com/img-mapper/vue-img-mapper.git"
   },
   "license": "MIT",
   "author": "Nisharg Shah",
@@ -50,7 +50,7 @@
     "husky": "^7.0.2",
     "lint-staged": "^11.1.2",
     "prettier": "^2.3.2",
-    "vite": "^2.5.1",
+    "vite": "^2.9.16",
     "vite-plugin-eslint": "^1.3.0"
   }
 }
