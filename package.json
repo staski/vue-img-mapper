@@ -20,7 +20,7 @@
     "url": "git+https://github.com/staski/vue-img-mapper.git"
   },
   "license": "MIT",
-  "author": "Nisharg Shah",
+  "author": "Nisharg Shah (with minor additions by staski)",
   "type": "commonjs",
   "main": "dist/vue-img-mapper.umd.js",
   "scripts": {
