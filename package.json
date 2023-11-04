@@ -1,6 +1,6 @@
 {
   "name": "@staski/vue-img-mapper",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Vue Component to highlight interactive zones in images",
   "keywords": [
     "vue",
@@ -11,13 +11,13 @@
     "img mapper",
     "image mapper"
   ],
-  "homepage": "https://img-mapper.github.io/vue-docs",
+  "homepage": "https://github.com/staski/vue-img-mapper",
   "bugs": {
-    "url": "https://github.com/img-mapper/vue-img-mapper/issues"
+    "url": "https://github.com/staski/vue-img-mapper/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/img-mapper/vue-img-mapper.git"
+    "url": "git+https://github.com/staski/vue-img-mapper.git"
   },
   "license": "MIT",
   "author": "Nisharg Shah",
